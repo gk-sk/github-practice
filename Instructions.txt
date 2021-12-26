@@ -4,3 +4,7 @@ Instructions for deploying this site to the server.
 Installation on Nginx
 ---------------------
 
+
+Steps to resolve potential issues.
+---------------------------------
+
