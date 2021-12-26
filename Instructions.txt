@@ -7,8 +7,7 @@ Installation on Nginx.
 Steps to resolve potential issues.
 ---------------------------------
 
-Security features.
--------------------
+
 
 
 
