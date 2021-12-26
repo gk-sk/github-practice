@@ -7,7 +7,7 @@ If needed, ensure to list all dependencies that are required for this change.
 
 Fixes # (Issue)
 
-##Type of Change
+## Type of Change
 
 Please delete options that are not relevent.
 
