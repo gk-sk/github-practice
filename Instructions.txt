@@ -6,3 +6,11 @@ Installation on Nginx.
 
 Desktop Installtion Package for Linux(AMD X-86).
 ------------------------------------------------
+
+Steps to resolve potential issues.
+---------------------------------
+
+Security features.
+-------------------
+
+
