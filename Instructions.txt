@@ -10,11 +10,7 @@ Desktop Installtion Package for Linux(AMD X-86).
 Steps to resolve potential issues.
 ---------------------------------
 
-Infrastructure monitoring setup.
--------------------------------
-
 Security features.
 -------------------
-
 
 
